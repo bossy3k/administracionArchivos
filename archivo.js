@@ -7,3 +7,4 @@ fs.readFile('contenido.txt', 'utf8', function(err, data) {
   console.log(n+'->'+data);
   n++;
 });
+//Pruebas
